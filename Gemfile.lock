@@ -1,7 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.5)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     arr-pm (0.0.9)
       cabin (> 0)
     backports (3.6.0)
@@ -26,6 +27,7 @@ GEM
       http_parser.rb (= 0.5.3)
     http_parser.rb (0.5.3)
     json (2.3.1)
+    public_suffix (4.0.6)
     rake (12.3.3)
 
 PLATFORMS
